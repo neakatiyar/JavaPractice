@@ -1,8 +1,7 @@
 public class Factorial {
 
-    public static void main(String[] args) {
-        Factorial factorial = new Factorial();
-        System.out.println(factOf(7));
+
+    public static void main(String[] args) { System.out.println(factOf(7));
     }
 
     public static int factOf(int num) {
